@@ -875,3 +875,12 @@ footer {
     background: #38bdf8;
     color: #08111f;
 }
+.contact-details a {
+    color: #0284c7;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.contact-details a:hover {
+    text-decoration: underline;
+}
