@@ -116,3 +116,6 @@ window.addEventListener("scroll", function () {
     });
 
 });
+function toggleMenu() {
+    document.querySelector(".nav-links").classList.toggle("mobile-active");
+}
